@@ -1,0 +1,7 @@
+Data models are a representation of data for a data schema
+It is essentially a web diagram of how all the information in a database is related to each other
+The web structure is necessary to replace the string lengths of the inputed data to integers
+This reduces the amount of scanning the computers perform and leads to faster processing.
+The primary key is the identifier that relates data in its native table
+Foreign keys are essentially the identifiers of a row in a different table
+Both primary and foreign keys are usually numbers
