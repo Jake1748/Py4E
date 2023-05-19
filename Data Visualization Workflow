@@ -1,0 +1,6 @@
+Processing data can be arduous because there are multiple phases.
+There is the gatherihng phase where a program can gather the data and store it. 
+Most of the time the program will wirte that data into a database to ensure that the data is available for subsequent uses and not altered
+This step can take a long time to perform because there can be a lot of data to gather, and there can be interruptions in the connection
+Then a program processes the data to find the information of interest and process it for use
+Lastly, another program will use that processed data to present it in a meaningful way
