@@ -1,0 +1,5 @@
+Tables can have duplicate values to in their columnds and rows.
+This can lead to unnecessary work for the computer.
+To handle the duplicate values, programmers can create a through table that functions as a glossary for a category of data
+This is essentially a dictionary-esque apprach, so that tables don't have to use strings, but rather use integers
+It can make for a larger web diagram, and more confusion for programmers, but it ensures that the tables can be read faster
